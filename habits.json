@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Workout",
+        "goal_per_day": 2,
+        "goal_per_week": 7,
+        "description": " See plan by trainer",
+        "importance": " High",
+        "streak": 0,
+        "completions": [
+            "2025-05-15"
+        ]
+    },
+    {
+        "name": "Code python",
+        "goal_per_day": 1,
+        "goal_per_week": 7,
+        "description": " code for 1 hour a day",
+        "importance": "  High",
+        "streak": 0,
+        "completions": [
+            "2025-05-15"
+        ]
+    },
+    {
+        "name": "Brush teeth",
+        "goal_per_day": 2,
+        "goal_per_week": 7,
+        "description": "Brush your teeth every morning and evening . Floss in the evening ",
+        "importance": " :High",
+        "streak": 0,
+        "completions": [],
+        "milestones_hit": [],
+        "reminders": {
+            "default": [
+                "14:37",
+                "20:00"
+            ],
+            "custom": {}
+        }
+    }
+]
